@@ -55,6 +55,10 @@ This repo includes both federated split learning and split learning works.
 
 ## Distributed System Design
 ### Communication Efficiency
+- (2024-07-23 **ICDCS**) **Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning**,
+  - **Paper:** [[IEEE ICDCS](https://doi.org/10.1109/ICDCS60910.2024.00062)]
+  - `Workload Balancing`, `Decentralized Learning`, `Communication Efficiency`
+
 - (2023-05-30) **Split Federated Learning: Speed up Model Training in Resource-Limited Wireless Networks**, ![](https://img.shields.io/badge/Citation-19-lightgray?style=round-square&logo=GoogleScholar&logoColor=6B9DF9) 
   - **Paper:** [[arXiv](https://arxiv.org/abs/2305.18889)]
   - `Federated Split Learning`
